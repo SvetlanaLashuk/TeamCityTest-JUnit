@@ -1,1 +1,1 @@
-# TeamCityTest-Unit
+# TeamCity project for unit tests
